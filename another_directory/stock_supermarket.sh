@@ -1,1 +1,9 @@
-mv 
+mv delivery/mint_milano_cookies.txt snax
+mv delivery/oreos.txt snax
+mv delivery/salmon_steak.txt meat
+mv delivery/tiramisu_cake.txt dessert
+mv delivery/trail_mix.txt snax
+mv delivery/turkey_breast.txt meat
+mv delivery/velveeta_cheese.txt dairy
+mv delivery/watermelon.txt fruit
+mv delivery/whole_chicken.txt meat
